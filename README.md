@@ -84,16 +84,6 @@ trekking-checklist-excel-vba/
 
 ---
 
-## 📸 Project Preview
-
-> Add screenshots here.
-
-| Home | Check | Extract |
-|------|-------|---------|
-| *(Insert Image)* | *(Insert Image)* | *(Insert Image)* |
-
----
-
 ## 📈 Learning Outcomes
 
 Through this project, I learned how to:
